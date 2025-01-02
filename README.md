@@ -16,6 +16,10 @@
 
 - 本人是前端小菜鸟，欢迎各位大神来指导！！！
 - 帅帅导航目前为v4.0.0版本，后会继续更新增加新功能；也欢迎大家提出宝贵建议。
+- 现在后台管理系统可以使用手机号注册和登录呦！
+- ![image](https://github.com/user-attachments/assets/24b30dbf-59e6-4d67-a868-58fac2758ed4)
+- ![image](https://github.com/user-attachments/assets/f617bcbc-15b8-45be-9e48-5082787f81fb)
+
 - 现在后台管理系统增加了天气查询。欢迎大家使用呦
 ![输入图片说明](Preview/image.png)
 ## 图标
@@ -35,8 +39,8 @@
    ![输入图片说明](Preview/image123.png)
     ![输入图片说明](Preview/image1234.png)
    ![输入图片说明](Preview/image12345.png)
-    <img src="/Preview/Snipaste_2024-11-01_19-17-28.png"  />
-    <img src="/Preview/Snipaste_2024-11-01_19-17-38.png"  />
+  ![image](https://github.com/user-attachments/assets/43a0a060-187f-433c-b56e-a9eea4bbfa74)
+    ![image](https://github.com/user-attachments/assets/11bcd48a-2a0b-40db-887a-3715525fbb34)
     <img src="/Preview/Snipaste_2024-11-01_19-17-51.png"  />
 
 
